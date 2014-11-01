@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>チュートリアル</string>
+		<key>fruitNum</key>
+		<integer>3</integer>
+		<key>timeToSolve</key>
+		<integer>20</integer>
+		<key>animateFruit</key>
+		<integer>0</integer>
+		<key>pointsPerFruit</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>ゲーム01</string>
+		<key>fruitNum</key>
+		<integer>7</integer>
+		<key>timeToSolve</key>
+		<integer>60</integer>
+		<key>animateFruit</key>
+		<integer>1</integer>
+		<key>pointsPerFruit</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>未設定</string>
+		<key>fruitNum</key>
+		<integer>5</integer>
+		<key>timeToSolve</key>
+		<integer>60</integer>
+		<key>animateFruit</key>
+		<integer>0</integer>
+		<key>pointsPerFruit</key>
+		<integer>10</integer>
+	</dict>
+</array>
+</plist>
